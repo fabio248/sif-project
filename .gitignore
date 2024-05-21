@@ -1,0 +1,6 @@
+webapp/node_modules/
+webapp/package-lock.json
+api/node_modules/
+api/package-lock.json
+api/postgres_data/
+.idea/
